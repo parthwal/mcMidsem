@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">TravelAppDemo</string>
+
+    <!--Location 1 - Delhi-->
+    <string name="n1">Delhi</string>
+    <string name="t1">City</string>
+    <string name="s1">Stop 1</string>
+    <string name="d1">0</string>
+
+    <!-- Location 2 - Ghaziabad -->
+    <string name="n2">Ghaziabad</string>
+    <string name="t2">City</string>
+    <string name="s2">Stop 2</string>
+    <string name="d2">25</string>
+
+    <!-- Location 3 - Meerut -->
+    <string name="n3">Meerut</string>
+    <string name="t3">City</string>
+    <string name="s3">Stop 3</string>
+    <string name="d3">35</string>
+
+    <!-- Location 4 - Muzaffarnagar -->
+    <string name="n4">Muzaffarnagar</string>
+    <string name="t4">City</string>
+    <string name="s4">Stop 4</string>
+    <string name="d4">30</string>
+
+    <!-- Location 5 - Roorkee -->
+    <string name="n5">Roorkee</string>
+    <string name="t5">Town</string>
+    <string name="s5">Stop 5</string>
+    <string name="d5">30</string>
+
+    <!-- Location 6 - Haridwar -->
+    <string name="n6">Haridwar</string>
+    <string name="t6">City</string>
+    <string name="s6">Stop 6</string>
+    <string name="d6">30</string>
+
+    <!-- Location 7 - Rishikesh -->
+    <string name="n7">Rishikesh</string>
+    <string name="t7">City</string>
+    <string name="s7">Stop 7</string>
+    <string name="d7">30</string>
+
+    <!-- Location 8 - Narendra Nagar -->
+    <string name="n8">Narendra Nagar</string>
+    <string name="t8">Town</string>
+    <string name="s8">Stop 8</string>
+    <string name="d8">20</string>
+
+    <!-- Location 9 - Chamba -->
+    <string name="n9">Chamba</string>
+    <string name="t9">Town</string>
+    <string name="s9">Stop 9</string>
+    <string name="d9">22</string>
+
+    <!-- Location 10 - Dehradun -->
+    <string name="n10">Dehradun</string>
+    <string name="t10">City</string>
+    <string name="s10">Stop 10</string>
+    <string name="d10">28</string>
+
+</resources>
